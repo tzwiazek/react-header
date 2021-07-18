@@ -5,6 +5,4 @@ https://ecstatic-heisenberg-8e086a.netlify.app/
 
 ## Description
 
-This is a simple react header component, built in my spare time for learning purposes.
-# react-header
-
+Simple react header component, built in my spare time for learning purposes.
